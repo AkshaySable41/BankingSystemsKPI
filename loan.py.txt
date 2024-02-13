@@ -1,0 +1,4 @@
+Name,Age,Loan
+Akshay,27,100000
+Ajinkya,24,50000
+Pravin,33,89000
